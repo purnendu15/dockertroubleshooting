@@ -2,11 +2,8 @@
 Troubleshooting experiments with Docker
 
 # 403 Forbidden while loading a custom page to Nginx
-----------------------------------------------------
 
 
-1. My first testing with docker and nginx. I could not load a custom age.
-Steps:
 a) docker pull nginx
 
 b)
