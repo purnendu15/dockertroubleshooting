@@ -1,4 +1,4 @@
-# dockertroubleshooting
+# docker-troubleshooting
 Troubleshooting experiments with Docker
 
 # 403 Forbidden while loading a custom page to Nginx
